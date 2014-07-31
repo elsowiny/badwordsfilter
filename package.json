@@ -1,14 +1,16 @@
 {
-  "name": "badwords",
-  "version": "0.0.3",
-  "description": "A highly consumable list of bad (profanity) english words",
-  "main": "array.js",
+  "name": "badwords-list",
+  "version": "1.0.0",
+  "author": "Michael Price <webmech@gmail.com>",
+  "license": "MIT",
+  "description": "A highly consumable list of bad (profanity) english words (forked from badwords)",
+  "main": "./lib/index",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha -R nyan"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/MauriceButler/badwords.git"
+    "url": "git@github.com:web-mech/badwords-list.git"
   },
   "keywords": [
     "bad",
@@ -21,9 +23,11 @@
     "list",
     "swear"
   ],
-  "author": "Maurice Butler <maurice.butler@gmail.com>",
-  "license": "MIT",
+  "devDependencies":{
+    "mocha":"1.14.0",
+    "better-assert":"1.0.0"
+  },
   "bugs": {
-    "url": "https://github.com/MauriceButler/badwords/issues"
+    "url": "https://github.com/web-mech/badwords-list/issues"
   }
 }
