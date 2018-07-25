@@ -32,7 +32,7 @@ var list = require('badwords-list'),
 Testing
 =======
 
-####Requires
+#### Requires
 - Mocha
 - better-assert
 
