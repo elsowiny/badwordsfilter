@@ -23,9 +23,9 @@
     "list",
     "swear"
   ],
-  "devDependencies":{
-    "mocha":"1.14.0",
-    "better-assert":"1.0.0"
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "better-assert": "1.0.0"
   },
   "bugs": {
     "url": "https://github.com/web-mech/badwords-list/issues"
