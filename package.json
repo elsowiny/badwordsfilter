@@ -1,33 +1,33 @@
 {
-  "name": "badwords-list",
+  "name": "badwordslist",
   "version": "1.0.0",
-  "author": "Michael Price <webmech@gmail.com>",
-  "license": "MIT",
-  "description": "A highly consumable list of bad (profanity) english words (forked from badwords)",
-  "main": "./lib/index",
+  "description": "badwords-list v1.0.0\r ========",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
   "scripts": {
-    "test": "./node_modules/.bin/mocha -R nyan"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node lib/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:web-mech/badwords-list.git"
+    "url": "git+https://github.com/elsowiny/badwordslist.git"
   },
-  "keywords": [
-    "bad",
-    "word",
-    "words",
-    "profanity",
-    "filter",
-    "blacklist",
-    "black",
-    "list",
-    "swear"
-  ],
-  "devDependencies": {
-    "mocha": "^5.2.0",
-    "better-assert": "1.0.0"
-  },
+  "keywords": [],
+  "author": "Sherief Elsowiny <elsowiny@yahoo.com>",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/web-mech/badwords-list/issues"
+    "url": "https://github.com/elsowiny/badwordslist/issues"
+  },
+  "homepage": "https://github.com/elsowiny/badwordslist#readme",
+  "dependencies": {
+    "@types/node": "^17.0.15"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "typescript": "^4.5.5"
   }
 }
