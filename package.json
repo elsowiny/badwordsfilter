@@ -53,7 +53,6 @@
     "eslint-config-google": "^0.14.0",
     "jest": "^27.5.0",
     "prettier": "^2.5.1",
-    "tslint": "^6.1.3",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.5.5"
   },
@@ -63,8 +62,5 @@
       "json",
       "html"
     ]
-  },
-  "dependencies": {
-    "npm": "^8.4.1"
   }
 }
