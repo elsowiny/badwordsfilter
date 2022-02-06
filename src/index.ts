@@ -1,88 +1,74 @@
-var filterList =  ["4r5e","5h1t","5hit","a55","a_s_s","allissa","almeja","anal","anal love","anally","anus","ar5e","arrse","arse","ass","ass-fucker","asses","assfucker","assfukka","asshole","assholes","asswhole","b!tch","b00bs","b17ch","b1tch","badonkadonk","bald peach","ballbag","balls","ballsack","bastard","beastial","beastiality","beef flume","bellend","bestial","bestiality","bi+ch","biatch","bitch","bitcher","bitchers","bitches","bitchin","bitching","bloody","blow job","blowjob","blowjobs","boiolas","bollock","bollok","boner","boob","boobs","booobs","boooobs","booooobs","booooooobs","booty","breasts","brown sailor","buceta","buchacha","bugger","bum","bunny fucker","butt","butthole","buttmuch","buttocks","buttplug","c0ck","c0cksucker","caesar anele","carpet muncher","cawk","chink","chuthiya","cipa","cl1t","cleveland steamer","clit","clitoris","clits","cnut","cock","cock-sucker","cockface","cockhead","cockmunch","cockmuncher","cocks","cocksuck","cocksucked","cocksucker","cocksucking","cocksucks","cocksuka","cocksukka","cok","cokmuncher","coksucka","cona","coneja","coochie","coon","courtney","cox","crap","creampie","creampied","cucci","cuchi","cum","cummer","cumming","cums","cumshot","cunilingus","cunillingus","cunnilingus","cunt","cuntfest","cuntlick","cuntlicker","cuntlicking","cunts","cyalis","cyberfuc","cyberfuck","cyberfucked","cyberfucker","cyberfuckers","cyberfucking","d1ck","damn","dick","dickhead","dildo","dildos","dink","dinks","dirsa","dlck","dog-fucker","doggin","dogging","donkeyribber","doosh","dpv","drilling a girl","duche","dyke","ejaculate","ejaculated","ejaculates","ejaculating","ejaculatings","ejaculation","ejakulate","ewan","f u c k","f u c k e r","f4nny","f_u_c_k","fag","fagging","faggitt","faggot","faggs","fagot","fagots","fags","fanny","fannyflaps","fannyfucker","fanyy","fatass","fcuk","fcuker","fcuking","feck","fecker","felcher","felching","fellate","fellatio","fingerfuck","fingerfucked","fingerfucker","fingerfuckers","fingerfucking","fingerfucks","fistfuck","fistfucked","fistfucker","fistfuckers","fistfucking","fistfuckings","fistfucks","fitta","flange","fook","fooker","fuck","fucka","fucked","fucker","fuckers","fuckhead","fuckheads","fuckin","fucking","fuckings","fuckingshitmotherfucker","fuckme","fucks","fuckwhit","fuckwit","fudge packer","fudgepacker","fudgie krinkles","fuk","fuker","fukker","fukkin","fuks","fukwhit","fukwit","furry sausage wallet","fux","fux0r","gangbang","gangbanged","gangbangs","gaylord","gaysex","genital","girth warrior","goatse","god","god-dam","god-damned","goddamn","goddamned","hairy oyster","hardcoresex","hell","henard","heshe","ho","hoar","hoare","hoer","homo","hoo-hoo","hore","horniest","horny","hotsex","jack-off","jackoff","jap","jerk-off","jism","jiz","jizm","jizz","kawk","knob","knobead","knobed","knobend","knobhead","knobjocky","knobjokey","kock","kondum","kondums","koo-ka","kum","kummer","kumming","kums","kunilingus","l.a.d","l3i+ch","l3itch","labia","loose gooey","love piston","lust","lusting","m0f0","m0fo","m45terbate","ma5terb8","ma5terbate","masochist","master-bate","masterb8","masterbat*","masterbat3","masterbate","masterbation","masterbations","masturbate","memek","minge oil","mo-fo","mof0","mofo","monuj","mothafuck","mothafucka","mothafuckas","mothafuckaz","mothafucked","mothafucker","mothafuckers","mothafuckin","mothafucking","mothafuckings","mothafucks","mother fucker","motherfuck","motherfucked","motherfucker","motherfuckers","motherfuckin","motherfucking","motherfuckings","motherfuckka","motherfucks","muff","mustard slot","mutha","muthafecker","muthafuckker","muther","mutherfucker","n1gga","n1gger","nazi","nigg3r","nigg4h","nigga","niggah","niggas","niggaz","nigger","niggers","nigtwat","nob","nob jokey","nobhead","nobjocky","nobjokey","numbnuts","nunu","nutsack","obgyn","orgasim","orgasims","orgasm","orgasmic","orgasms","orgy","p0rn","panocha","pawn","pecker","peepee","pel","penis","penisfucker","phallus","phonesex","phuck","phudi","phuk","phuked","phuking","phukked","phukking","phuks","phuq","pigfucker","pimpis","piss","pissed","pisser","pissers","pisses","pissflaps","pissin","pissing","pissoff","pjc","poon tang","poontang","poop","poopchute","porn","porno","pornography","pornos","prick","pricks","pron","prostiwhore","pube","pudhi","puhey","pum pum","pun tang","punanee","punani","punanni","pusse","pussi","pussies","pussies wet","pussy","pussys","putang","putang","puti","pwa","rectal","rectum","retard","rimjaw","rimming","rundi","s hit","s.o.b.","s_h_i_t","sadist","sascrotch","sausage mitten","schlong","schniz","screwing","scroat","scrote","scrotum","semen","sex","sh!+","sh!t","sh1t","shag","shagger","shaggin","shagging","shanecobra","shaved clam","shemale","shi+","shit","shitcunt","shitdick","shite","shited","shitey","shitfuck","shitfull","shithead","shiting","shitings","shits","shitted","shitter","shitters","shitting","shittings","shitty","skank","skeezmuff","skintus","slosher","slut","sluts","smegma","smut","snatch","snooki","son-of-a-bitch","spac","splayed","spunk","spunktrumpet","sugar walls","t1tt1e5","t1tties","taco hole","teets","teez","testical","testicle","tit","titfuck","tits","titt","tittie5","tittiefucker","titties","tittyfuck","tittywank","titwank","tosser","tuppy hole","turd","tw4t","twat","twat","twathead","twatty","twunt","twunter","v14gra","v1gra","vag","vagin","vagina","vaginal","vagine","viagra","vijayjay","virginia ham","vongugenheimenwompenhomen","vulva","w00se","wang","wank","wanker","wanky","whoar","whore","whorebag","willies","willy","wimp","woman of easy virtue","xrated","xxx","yakmule","yawning donkey"];
+import filterData from './data';
+let filterList = filterData;
 
+// create options config object
+const globalOptions = {
+  replacer: '*',
+};
 
-//create options config object
-var globalOptions = {
-  replacer: "*",
-  excludeList: [] as string[],
-  includeList: [] as string[],
-}
+class FilterConfig {
+  // used to manage global options
 
+  // exclude a list of words from the profanity list
+  static exclude(words: string[]) {
+    // make sure the list coming in is an array and lowercase it
+    words = words.map((word) => word.toLowerCase());
 
-class filterConfig{
-  //used to manage global options
-  static addExclude(word: string){
-    globalOptions.excludeList.push(word);
+    // remove the words from the filterList
+    filterList = filterList.filter((word) => !words.includes(word));
   }
 
-  static addInclude(value:string[]){
-    //add the valus in the array to the excludeList
-    globalOptions.includeList = globalOptions.includeList.concat(value); 
+  // add the values in the array to the excludeList
+  static include(value: string[]) {
+    filterList = filterList.concat(value);
   }
-
-  static replacer(value:string){
-    //set the replacer value
+  // set the replacer value
+  static replacer(value: string) {
     globalOptions.replacer = value;
   }
-
 }
 
-//checks if a given string is profane
-    const profane = function(value:string): boolean{
-      //lowercase the value and check if it matches the filterList
-      return filterList.indexOf(value.toLowerCase()) > -1;
+// checks if a given string is profane
+// arrow function
+const profane = (value: string): boolean => {
+  // lowercase the value and check if it matches the filterList
+  return filterList.indexOf(value.toLowerCase()) > -1;
+};
+
+// returns a filtered string so long a string is supplied
+// and that that word is profane
+const filter = (value: string): string => {
+  // check if the value is profane
+  // if so, replace that word with all asterisks in the same length
+  // return the string
+  if (profane(value)) {
+    // return based on the replacer value
+    return globalOptions.replacer.repeat(value.length);
+  }
+  return value;
+};
+
+// returns a filtered array where we check if any value in the array is profane
+// if so, it is replaced where any profane word is now all asterisks in the same length
+const filterArray = (value: string[]): string[] => {
+  return value.map((word) => {
+    if (profane(word)) {
+      return globalOptions.replacer.repeat(word.length);
     }
-    
-   //returns a filtered string so long a string is supplied
-   //and that that word is profane 
-   const filter = function(value:string): string{
-      //check if the value is profane
-      //if so, replace that word with all asterisks in the same length
-      //return the string
-      if(profane(value)){
-        //return based on the replacer value
-        return globalOptions.replacer.repeat(value.length);
-      }
-      return value;
-   }
+    return word;
+  });
+};
+// add a word to the filterList
+const addWord = (word: string) => {
+  filterList.push(word);
+};
 
-     
-     //returns a filtered array where we check if any value in the array is profane
-      //if so, it is replaced where any profane word is now all asterisks in the same length
-   const filterArray = function(value:string[]): string[]{
-     
-      return value.map(function(word){
-        if(profane(word)){
-          return globalOptions.replacer.repeat(word.length);
-        }
-        return word;
-      });
-      
-    }
-    //add a word to the filterList
-    const addWord = function(word:string){
-      filterList.push(word);
-    }
+// remove a word from the filterList
+const removeWord = (word: string) => {
+  const index = filterList.indexOf(word);
+  if (index > -1) {
+    filterList.splice(index, 1);
+  }
+};
 
-    //remove a word from the filterList
-    const removeWord = function(word:string){
-      const index = filterList.indexOf(word);
-      if(index > -1){
-        filterList.splice(index, 1);
-      }
-    }
-
-
-    export {
-      profane,
-      filter,
-      addWord,
-      removeWord,
-      filterArray,
-      filterConfig,
-    }
-
-
-
-
-
+export { profane, filter, addWord, removeWord, filterArray, FilterConfig };
