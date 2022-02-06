@@ -21,7 +21,9 @@ class FilterConfig {
 		words = words.map((word) => word.toLowerCase());
 
 		// remove the words from the filterList
-		filterList = filterList.filter((word) => !words.includes(word));
+		filterList = filterList.filter((word) => {
+			return words.indexOf(word) === -1; 
+		});
 	}
 
 	// add the values in the array to the excludeList
