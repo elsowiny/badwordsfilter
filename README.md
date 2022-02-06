@@ -1,6 +1,11 @@
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/elsowiny/DigitalAssets/master/readmecovers/readmecoverprofanity.gif" alt="cover photo" />
+
+
 [![CodeQL](https://github.com/elsowiny/badwordsfilter/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/elsowiny/badwordsfilter/actions/workflows/codeql-analysis.yml)
 
 [![buildandtest](https://github.com/elsowiny/badwordsfilter/actions/workflows/node.js.yml/badge.svg)](https://github.com/elsowiny/badwordsfilter/actions/workflows/node.js.yml)
+</div>
 
 Install
 =======
