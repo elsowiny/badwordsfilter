@@ -1,4 +1,4 @@
-import {profane, filter, addWord, removeWord, filterArray, filterConfig } from "../src/index";
+import {profane, filter, addWord, removeWord, filterArray, FilterConfig as fc} from "../src/index";
 
 
 
@@ -36,9 +36,21 @@ describe('filter', function(){
   })
 
   it("Should remove a word from the profanity list", function(){
+    removeWord("arse");
+    expect(profane("arse")).toBe(false);
+
+    //readd the word
+    addWord("arse");
+  })
+
+  it("Should do nothing when trying to remove a word that doesn't exist", function(){
     removeWord("noob");
     expect(profane("noob")).toBe(false);
+    removeWord("hello");
+    expect(profane("hello")).toBe(false);
   })
+
+
 
   
   //testing speed no assertions
@@ -52,18 +64,25 @@ describe('filter', function(){
   })
 
 
-  //tests for the config
-  it("should change the replacer value when supplied", function(){
+ 
+
+
+});
+
+
+describe("configs", function(){
+   //tests for the config
+   it("should change the replacer value when supplied", function(){
 
     //change the replacer value
    
-    filterConfig.replacer("x");
+    fc.replacer("x");
     expect(filter("damn")).toBe("xxxx");
 
-    filterConfig.replacer("*");
+    fc.replacer("*");
     expect(filter("damn")).toBe("****");
 
-    filterConfig.replacer("");
+    fc.replacer("");
     expect(filter("damn")).toBe("");
     expect(filter("xxx")).toBe("");
     expect(filter("arse")).toBe("");
@@ -72,7 +91,7 @@ describe('filter', function(){
     expect(filterArray(["damn", "xxx", "arse"])).toEqual(["", "", ""]);
 
     //reset the replacer value
-    filterConfig.replacer("*");
+    fc.replacer("*");
     expect(filter("damn")).toBe("****");
 
     //test array
@@ -82,10 +101,23 @@ describe('filter', function(){
 
   })
   
+  
+  //test adding new words via a string array e.g ['noob', 'noodle', 'badword']
+  it("should add new words to the profanity list", function(){
+    fc.include(["noob", "noodle", "badword"]);
+    expect(profane("noob")).toBe(true);
+    expect(profane("noodle")).toBe(true);
+    expect(profane("badword")).toBe(true);
+  })
 
-
-});
-
+  //test removing words from the profanity list
+  it("should remove words from the profanity list", function(){
+    fc.exclude(["damn", "xxx", "arse"]);
+    expect(profane("damn")).toBe(false);
+    expect(profane("xxx")).toBe(false);
+    expect(profane("arse")).toBe(false);
+  })
+})
 
 
 
