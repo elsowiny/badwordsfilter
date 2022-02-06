@@ -1,4 +1,4 @@
-
+[![CodeQL](https://github.com/elsowiny/badwordsfilter/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/elsowiny/badwordsfilter/actions/workflows/codeql-analysis.yml)
 
 Install
 =======
