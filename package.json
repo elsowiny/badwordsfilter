@@ -1,8 +1,9 @@
 {
-  "name": "badwordsfilter",
+  "name": "@elsowiny/badwordsfilter",
   "version": "1.0.0",
-  "description": "badwordsfilter",
-  "main": "index.js",
+  "description": "A filter for bad words which also checks if a word is profane",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "directories": {
     "lib": "lib",
     "test": "test"
@@ -13,18 +14,22 @@
     "start": "node lib/index.js",
     "format": "prettier --write \"src/**/*.ts\" ",
     "lint": "tslint -p tsconfig.json"
+    
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elsowiny/badwordslist.git"
   },
-  "keywords": [],
+  "keywords": ["profanity", "badwordsfilter", "badwords", "isprofane", "isbadword", "badword", "profanityfilter", "profanitychecker", "profanitycheck", "badwordchecker"],
   "author": "Sherief Elsowiny <elsowiny@yahoo.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/elsowiny/badwordslist/issues"
   },
   "files" :["lib/**/*"],
+  
+  
+
   "homepage": "https://github.com/elsowiny/badwordslist#readme",
   "devDependencies": {
     "@babel/core": "^7.17.0",
