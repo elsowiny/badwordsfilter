@@ -1,5 +1,7 @@
 [![CodeQL](https://github.com/elsowiny/badwordsfilter/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/elsowiny/badwordsfilter/actions/workflows/codeql-analysis.yml)
 
+[![buildandtest](https://github.com/elsowiny/badwordsfilter/actions/workflows/node.js.yml/badge.svg)](https://github.com/elsowiny/badwordsfilter/actions/workflows/node.js.yml)
+
 Install
 =======
 
