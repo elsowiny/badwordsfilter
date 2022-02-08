@@ -5,6 +5,8 @@
 [![CodeQL](https://github.com/elsowiny/badwordsfilter/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/elsowiny/badwordsfilter/actions/workflows/codeql-analysis.yml)
 
 [![buildandtest](https://github.com/elsowiny/badwordsfilter/actions/workflows/node.js.yml/badge.svg)](https://github.com/elsowiny/badwordsfilter/actions/workflows/node.js.yml)
+
+[![codecov](https://codecov.io/gh/elsowiny/badwordsfilter/branch/master/graph/badge.svg?token=19X7AYBX5Y)](https://codecov.io/gh/elsowiny/badwordsfilter)
 </div>
 
 Install
